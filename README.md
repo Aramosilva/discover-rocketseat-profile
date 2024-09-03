@@ -1,8 +1,8 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> MyProfile </h1>
 
 <p align="center">
 Realizando o curso da RocketSeat - Discover e criando meu próprio Profile <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui - por RocketSeat.</a>
 </p>
 
 <p align="center">
@@ -33,11 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+O MyProfile é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
@@ -49,4 +45,8 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by [Amanda Ramos](https://github.com/Aramosilva/)
+
+---
+
+Criado por RocketSeat 🚀 - [@maykbrito](https://github.com/maykbrito)
